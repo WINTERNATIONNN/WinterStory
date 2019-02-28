@@ -1,5 +1,11 @@
-Once upon a time, in the school of University of Wisconsin Madison, snow storm happened really often. There was a rumor spread aroud the town saying that something bad would happen during the snow storm.
+Once upon a time, in the school of University of Wisconsin Madison, snow storm happened really often. There was a rumor spread around the town saying that something bad would happen during the snow storm.
 
+<<<<<<< HEAD
 It was said that during the snow storm, students would go missing at hands of one of UW's own students. THe police could not make a list of suspects. And everyone who encountered the mystery could not describe the event.
 
 This has been going on for years upon years now. Then came along a student named Patrick. He was going to be the change that the university needed. He was going to find the cause of this great mystery and help countless families finally get closure. 
+=======
+It was said that during the snow storm, students would go missing at hands of one of UW's own students. The police could not make a list of suspects. And everyone who encountered the mystery could not describe the event.
+
+Just a few days ago, the police found out that Lake Mendota would swirl students to the bottom during full moon. This mystery was solved by a professor in the College of Engineering. He redesigned the structure of the lake, and peace came back to UW-Madison again.
+>>>>>>> c1391977de1275ed8523258079818d308be8058c
